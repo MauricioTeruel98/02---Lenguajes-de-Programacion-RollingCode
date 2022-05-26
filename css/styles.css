@@ -78,6 +78,11 @@ section{
     background-color: #004fa4;
 }
 
+p{
+    width: 50%;
+    margin: auto;
+}
+
 footer{
     height: 100px;
     background-color: rgb(46, 46, 46);
