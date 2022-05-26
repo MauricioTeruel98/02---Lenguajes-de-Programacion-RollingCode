@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navigation{
+    height: 100px;
+    background-color: #007bff;
+    padding: 30px
+}
+
+.navigation a{
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+    padding: 30px;
+}
+
+.navigation a:hover{
+    color: #ccc;
+}
+
+main{
+    margin: 50px;
+}
+
+.title{
+    text-align: center;
+    margin: 50px;
+
+}
+
+.title-sec{
+    margin: 30px;
+}
+
+.video{
+    border-radius: 20px;
+}
+
+section{
+    margin: 60px 20px ;
+    text-align: center;
+}
+
+.intro{
+    margin: 60px 20px ;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.center p{
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.mas-noticias{
+    margin-top: 100px;
+}
+
+.boton{
+    background-color: #007bff;
+    padding: 20px 60px;
+    border-radius: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.boton:hover{
+    background-color: #004fa4;
+}
+
+footer{
+    height: 100px;
+    background-color: rgb(46, 46, 46);
+    color: #ccc;
+    font-size: 20px;
+    padding: 35px;
+}
+
+table{
+    width: 50%;
+    margin: auto;
+    margin-top: 80px;
+}
+
+th{
+    padding: 10px;
+    border-top: 2px solid #ccc;
+    border-bottom: 2px solid #000;
+}
+
+td{
+    padding: 30px;
+    border-bottom: 1px solid #000;
+}
