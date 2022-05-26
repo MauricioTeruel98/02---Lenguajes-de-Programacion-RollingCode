@@ -83,6 +83,12 @@ p{
     margin: auto;
 }
 
+img{
+    vertical-align: middle;
+    margin-right: 50px;
+    width: 30px;
+}
+
 footer{
     height: 100px;
     background-color: rgb(46, 46, 46);
